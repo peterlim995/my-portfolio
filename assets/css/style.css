@@ -147,7 +147,7 @@ header a:hover {
 
 /*  Work Part */
 .work-box {
-  flex: 0 0 45%;
+  flex: 0 0 49%;
   display: flex;
   margin-bottom: var(--block-margin);
   flex-wrap: wrap;
